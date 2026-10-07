@@ -1,3 +1,12 @@
+<div align="center">
+
+<kbd>&nbsp;SUBDOMAINS&nbsp;</kbd> &nbsp; <kbd>&nbsp;TAKEOVER&nbsp;</kbd> &nbsp; <kbd>&nbsp;RECON&nbsp;</kbd> &nbsp; 
+
+[![Website](https://img.shields.io/badge/WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![License](https://img.shields.io/badge/LICENSE-MIT-3388ff?style=flat-square&labelColor=000000)](LICENSE)
+
+</div>
+
 # Subdomain Takeover  
 
 ## Overview  
@@ -17,8 +26,8 @@
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/subdomain-takeover.git
-   cd subdomain-takeover
+   git clone https://github.com/Hacking-Notes/Subdomain-Takeover.git
+   cd Subdomain-Takeover
    ```  
 2. Install dependencies:  
    ```bash
@@ -85,4 +94,18 @@ This tool is intended for **legal security testing and research purposes only**.
 
 ---
 
-Let me know if you need modifications! 🚀
+
+<br>
+
+<div align="center">
+
+### ───────────────  HACKING NOTES ECOSYSTEM  ───────────────
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![Roadmap](https://img.shields.io/badge/🗺_ROADMAP-Hacker--Roadmap-f5f5f5?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/Hacker-Roadmap)
+[![RedTeam](https://img.shields.io/badge/🔴_RED_TEAM-notes-ff3333?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/RedTeam)
+[![BlueTeam](https://img.shields.io/badge/🔵_BLUE_TEAM-notes-3388ff?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/BlueTeam)
+
+<sub><code>// part of the Hacking Notes toolkit — hacking-notes.com</code></sub>
+
+</div>
